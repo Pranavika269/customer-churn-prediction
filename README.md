@@ -1,2 +1,2 @@
 # customer-churn-prediction
-Machine learning project to predict customer churn
+End-to-end machine learning project to predict customer churn using Python and Random Forest.
